@@ -1,0 +1,4 @@
+chainlit==0.2.107
+gpt4all==0.2.3
+textblob==0.15.3
+
