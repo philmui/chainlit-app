@@ -4,9 +4,9 @@ from gpt4all import GPT4All
 
 #
 # Models available:
-#   - ggml-mpt-7b-chat.bin
-#   - ggml-gpt4all-j-v1.2-jazzy.bin
-#   - ggml-vicuna-13b-1.1-q4_2.bin
+#   - ggml-mpt-7b-chat.bin            # pretty natural, the best so far
+#   - ggml-gpt4all-j-v1.2-jazzy.bin   # ok but sometimes has strange responses
+#   - ggml-vicuna-13b-1.1-q4_2.bin    # have not tried yet
 #
 # default model dir: /Users/pmui/Library/Application Support/nomic.ai/GPT4All/
 #
